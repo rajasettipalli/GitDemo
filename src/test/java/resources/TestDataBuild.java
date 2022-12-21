@@ -40,4 +40,8 @@ public class TestDataBuild {
 				+ "}";
 		
 	}
+	
+	public static void update() {
+		System.out.println("new update");
+	}
 }
